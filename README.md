@@ -4,6 +4,7 @@ This repo contains the source code of our research project aiming to perform pro
 
 <!-- omit in toc -->
 ## Updates
+- **2024/05/16:** Repo has been transferred to [ECNU-ICALK/BPT-VLM](https://github.com/ECNU-ICALK/BPT-VLM) (Organization Account) 🔔
 - **2022/11/21:** Support parallel evaluation for all indivisuals in the same generation. :art:
 - **2022/10/20:** Release the deep variant of prompt tuning for BPT-VLM. :confetti_ball:	
 - **2022/09/28:** Release the first version of BPT-VLM. :star:
